@@ -1,6 +1,6 @@
 /* 
 芒果TV 2023.12.5
-脚本仅供学习和个人使用，不得用于商业目的或其他非法用途
+脚本仅供学习和个人使用，不得用于商业目的或其他非法用途q
 可以直接使用Walala的净化广告以及包含会员数据的脚本
 https://raw.githubusercontent.com/RuCu6/QuanX/main/Rewrites/Cube/cnftp.snippet
 感谢@RuCu6
