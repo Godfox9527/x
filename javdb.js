@@ -23,7 +23,7 @@ const chxm1023 = JSON.parse(typeof $response != "undefined" && $response.body ||
 
 if (typeof $response == "undefined") {
   //const headers = $request.headers;
-  //headers["authorization"] = "Bearer eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MzU4NDg3NywidXNlcm5hbWUiOiJjaHhtMTAyNCJ9.RI3cy6hTiFd7NgzDxN8UJwWlCQEJtGGxqRryWW8jr-w";
+  //headers["authorization"] = "Bearer 2kdnk1tSqOZi7c4jFImSUroiEu13_39-f0fwgm2EPjRv_DniBcYXvvc0b5VZ2kL5cKSSOqV3cCtdvj4oO0JflA";
   //chxm1024.headers = headers;
 } else {
   if(/users/.test(url)){
