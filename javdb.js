@@ -8,8 +8,8 @@
 **************************************
 
 [rewrite_local]
-^https?:\/\/api\.hechuangxinxi\.xyz\/api\/v\d\/(users|startup|ads) url script-response-body https://raw.githubusercontent.com/chxm1023/Rewrite/main/JavDB.js
-;^https?:\/\/api\.hechuangxinxi\.xyz\/api\/v\d\/(movies|movie_played) url script-request-header https://raw.githubusercontent.com/chxm1023/Rewrite/main/JavDB.js
+^https?:\/\/api\.hechuangxinxi\.xyz\/api\/v\d\/(users|startup|ads) url script-response-body https://raw.githubusercontent.com/Godfox9527/x/main/javdb.js
+;^https?:\/\/api\.hechuangxinxi\.xyz\/api\/v\d\/(movies|movie_played) url script-request-header https://raw.githubusercontent.com/Godfox9527/x/main/javdb.js
 
 [mitm]
 hostname = api.hechuangxinxi.xyz
